@@ -1,0 +1,10 @@
+experiment 2
+help
+google "site:example-lab.test filetype:pdf"
+google "site:example-lab.test inurl:login"
+help netcraft
+netcraft example-lab.test
+help dnsdumpster
+dnsdumpster --domain example-lab.test
+dnsdumpster --domain example-lab.test > dns_results.txt
+cat dns_results.txt

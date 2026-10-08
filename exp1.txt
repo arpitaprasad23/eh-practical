@@ -1,0 +1,7 @@
+experiment 1
+help
+help sherlock
+sherlock --version
+sherlock lab_student
+sherlock lab_student --output results.txt
+cat results.txt
