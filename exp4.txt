@@ -1,0 +1,6 @@
+experiment 4
+nmap --help
+snmpwalk --help
+nmap -O 192.168.1.10
+snmpwalk -v 2c -c public 192.168.1.10 system
+snmpwalk -v 2c -c public 192.168.1.10 ifTable

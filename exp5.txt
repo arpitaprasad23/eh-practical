@@ -1,0 +1,7 @@
+experiment 5
+ip --help
+ifconfig --help
+ip neigh show
+ip neigh show 192.168.1.1 (for show)
+arpwatch -i eth0 -d
+ip link show eth0

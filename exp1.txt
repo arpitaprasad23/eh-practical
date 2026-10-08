@@ -4,4 +4,4 @@ help sherlock
 sherlock --version
 sherlock lab_student
 sherlock lab_student --output results.txt
-cat results.txt
+cat results.txt (for show)
