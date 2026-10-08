@@ -1,0 +1,12 @@
+experiment 8
+help
+aircrack-ng --help
+man aircrack-ng
+aircrack-ng capture
+aircrack-ng
+aircrack-ng training
+ls
+aircrack-ng lab-wifi-01.cap
+aircrack-ng -w lab-wordlist.txt lab-wifi-01.cap
+aircrack-ng -b 02:AA:BB:CC:DD:01 -w lab-wordlist.txt lab-wifi-01.cap
+answer training-only-password

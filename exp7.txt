@@ -1,0 +1,12 @@
+experiment 7
+help
+wireshark --help
+man wireshark
+ls
+wireshark lab-passwords.pcap
+(click open lab-passwords.pcap)
+(type http in filter)
+(click apply)
+(find post packet request and click it ... ps index 68 post where pass=labtest is correct ... basically username should be student)
+(Expand Hypertext Transfer Protocol)
+answer labtest
